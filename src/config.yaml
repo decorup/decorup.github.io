@@ -1,10 +1,10 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: 'DecorUp Home'
+  site: 'https://decorup.github.io'
   base: '/'
   trailingSlash: false
 
-  googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
+  googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_R12341234
 
 # Default SEO metadata
 metadata:
